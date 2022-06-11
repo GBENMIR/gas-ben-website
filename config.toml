@@ -124,22 +124,22 @@ enableEmoji = true
     name = "About Me"
     title = "About Me"
     url = "/about-me/"
-    weight = 1
+    weight = 0
   [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/research/"
-    weight = 2
+    weight = 1
   [[menu.header]]
     name = "CV"
     title = "CV"
     url = "/cv/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Usefull Codes"
     title = "Usefull Codes"
     url = "/Usefull-codes/"
-    weight = 4
+    weight = 3
   
   # Configure footer  
  
