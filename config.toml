@@ -123,7 +123,7 @@ enableEmoji = true
   [[menu.header]]
     name = "About Me"
     title = "About Me"
-    url = "https://ghassanebenmir.com/"
+    url = "/about-me/"  #"https://ghassanebenmir.com/"
     weight = 1
   [[menu.header]]
     name = "Research"
