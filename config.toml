@@ -30,8 +30,8 @@ enableEmoji = true
 [params]
   orgName = "By Ghassane Benmir"
   description = "Ghassane Benmir Website"
-#  favicon = "/img/favicon.ico"
-#  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/favicon.ico"
+  logo = "/img/home.JPG"
   mainSections = ["about-me", "research", "cv", "Useful-codes"]
   navallcaps = true
   # show/hide social icons in site header & footer
