@@ -1,7 +1,7 @@
 baseURL = "https://ghassanebenmir.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal Website of Ghassane Benmir"
+#title = "Personal Website of Ghassane Benmir"
 author = "Ghassane Benmir"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
