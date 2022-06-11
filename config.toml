@@ -31,13 +31,13 @@ enableEmoji = true
   orgName = "By Ghassane Benmir"
   description = "Ghassane Benmir Website"
 #  favicon = "/img/favicon.ico"
- # logo = "/img/blogophonic-mark-dark.png"
+#  logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["about-me", "research", "cv", "Useful-codes"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
