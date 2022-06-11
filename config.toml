@@ -32,7 +32,7 @@ enableEmoji = true
   description = "Ghassane Benmir Website"
 #  favicon = "/img/favicon.ico"
  # logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["about-me", "research", "cv", "Usefull-codes"]
+  mainSections = ["about-me", "research", "cv", "Useful-codes"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -136,9 +136,9 @@ enableEmoji = true
     url = "/cv/"
     weight = 3
   [[menu.header]]
-    name = "Usefull Codes"
-    title = "Usefull Codes"
-    url = "/Usefull-codes/"
+    name = "Useful Codes"
+    title = "Useful Codes"
+    url = "/Useful-codes/"
     weight = 4
   
   # Configure footer  
