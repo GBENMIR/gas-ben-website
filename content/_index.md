@@ -10,7 +10,7 @@ text_align_left: true
 images:
 - /img/mypicture-small.JPG
 show_action_link: true
-show_social_links: false
+show_social_links: true
 text_align_left: true
 title: Ghassane Benmir
 subtitle: PhD Candidate
