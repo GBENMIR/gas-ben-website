@@ -1,6 +1,6 @@
 ---
 ## Configure header of page
-title: Contact
+title: "Contact"
 text_align_left: true
 show_title_as_headline: false
 ---

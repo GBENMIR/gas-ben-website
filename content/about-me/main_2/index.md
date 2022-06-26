@@ -1,6 +1,6 @@
 ---
 ## Configure header of page
-title: News and awards
+title: "News and awards"
 text_align_left: true
 show_title_as_headline: false
 ---
