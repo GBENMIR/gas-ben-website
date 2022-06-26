@@ -1,11 +1,12 @@
 ---
 ## Configure header of page
-title: Welcome to my webpage!
-text_align_left: true
-show_title_as_headline: false
+title: "Welcome to my webpage!"
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
 cascade:
-  headless: true
+  headless: false
 ---
+
+** index doesn't contain a body, just front matter above.
+See the header / main / sidebar folders to edit the index.md files **

@@ -3,6 +3,8 @@
 title: "News and awards"
 text_align_left: true
 show_title_as_headline: false
+cascade:
+  headless: false
 ---
 <!-- this is a subheadline -->
 I am honored to be selected as one of the finalist of the QCGBF Young Economist Prize.\

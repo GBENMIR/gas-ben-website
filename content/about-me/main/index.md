@@ -3,6 +3,8 @@
 title: "Who am I?"
 text_align_left: true
 show_title_as_headline: false
+cascade:
+  headless: false
 ---
 
 <!-- this is a subheadline -->
