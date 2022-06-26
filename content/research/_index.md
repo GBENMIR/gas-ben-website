@@ -1,11 +1,8 @@
 ---
-cascade:
-  headless: true
-description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
-show_header: false
-sidebar_left: false
-title: Policy Interaction and Transition to Clean Technology
+link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list:
+- name: Paris
+  url: https://en.wikipedia.org/wiki/Paris
 ---
 
 ** index doesn't contain a body, just front matter above.
