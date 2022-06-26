@@ -8,7 +8,9 @@ cascade:
 ---
 
 <!-- this is a subheadline -->
-I'm Ghassane Benmir and I am a PhD candidate and a teaching fellow at the LSE and PSL Research. 
+I'm Ghassane Benmir and I am a PhD candidate and a teaching fellow at both the LSE and PSL Research. 
 
 My research interests span macro-finance and climate change. I will be in the job market next December 2022.
+
+Prior to joining the LSE, I worked as a senior advisor for top consultancy firms and industry, advising governments and private sector actors in various countries for their strategic engagements. 
 

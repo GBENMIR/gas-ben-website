@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "By Ghassane Benmir"
   description = "Ghassane Benmir Website"
   favicon = "/img/favicon.ico"
-  logo = "/img/home.JPG"
+  logo = "/img/home_2.JPG"
   mainSections = ["about-me", "research", "cv", "Useful-codes"]
   navallcaps = true
   # show/hide social icons in site header & footer

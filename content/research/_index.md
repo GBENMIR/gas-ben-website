@@ -1,9 +1,37 @@
 ---
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
-link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
+title: Working Papers
+description: |
+  This page contains all my research work, each linked with accompanying publication, working paper, posters, and/or news pieces.
+author: "Ghassane Benmir"
+show_post_thumbnail: false
+thumbnail_left: true # for list-sidebar only
+show_author_byline: true
+show_post_date: true
+# for listing page layout
+layout: list # list, list-sidebar, list-grid
+
+# for list-sidebar layout
+sidebar: 
+  title: Blog
+  description: |
+    A home for my research publications.
+    
+  author: "Ghassane Benmir"
+  text_link_label: Subscribe via RSS
+  text_link_url: /index.xml
+  show_sidebar_adunit: true # show ad container
+
+# set up common front matter for all pages inside publication/
+cascade:
+  author: "Ghassane Benmir"
+  show_author_byline: true
+  show_post_date: true
+  show_comments: false # see site config to choose Disqus or Utterances
+  # for single-sidebar layout
+  sidebar:
+    text_link_label: View recent posts
+    text_link_url: /research/
+    show_sidebar_adunit: false # show ad container
 ---
 
-** index doesn't contain a body, just front matter above.
-See the header / main / sidebar folders to edit the index.md files **
+** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
