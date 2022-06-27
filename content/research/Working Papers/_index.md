@@ -1,8 +1,5 @@
 ---
-title: Research Papers
-description: |
-  This page contains all my research work, each linked with accompanying publication, working paper, posters, and/or news pieces.
-author: "Ghassane Benmir"
+title: Working Papers
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
