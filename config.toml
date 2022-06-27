@@ -90,7 +90,7 @@ enableEmoji = true
       url       = "https://github.com/GBENMIR/"
  [[params.social]]
       icon      = "institutional website" # icon name without the 'fa-'
-      icon_pack = "fab"
+      icon_pack = "fas"
       url       = "https://www.lse.ac.uk/granthaminstitute/profile/ghassane-benmir/"
 
 [taxonomies]
